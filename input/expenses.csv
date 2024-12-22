@@ -1,0 +1,126 @@
+Date,Amount,Vendor,Service,Category,Paid_By
+1/1/2024,"$4,800.00",Atlassian,Annual Team License - Jira & Confluence,Software,Employee Card
+1/2/2024,"$5,200.00",Digital Ocean,Cloud Hosting and Infrastructure,Utilities,Department Card
+1/5/2024,"$25,000.00",ADP,January Payroll - Development Team,Wages,Direct Deposit
+1/5/2024,"$3,800.00",Regus,Office Space - Monthly Rent,Rent or Lease,Department Card
+1/5/2024,"$8,500.00",ADP,January Payroll - Management Team,Wages,Direct Deposit
+1/5/2024,"$6,500.00",ADP,January Payroll - Design Team,Wages,Direct Deposit
+1/10/2024,"$1,800.00",Hartford Business,General Liability Insurance - Monthly,Insurance,Corporate Card
+1/15/2024,"$2,500.00",LinkedIn,Premium Job Postings,Advertising,Corporate Card
+1/15/2024,"$1,200.00",Indeed,Job Postings,Advertising,Corporate Card
+1/15/2024,"$3,500.00",Meta,Social Media Marketing,Advertising,Department Card
+1/20/2024,"$1,500.00",Apple Developer,Annual Developer Program - Enterprise,Software,Corporate Card
+1/20/2024,"$2,500.00",Slack,Annual Enterprise License,Software,Corporate Card
+1/25/2024,$980.00,Adobe,Creative Cloud Enterprise License,Software,Petty Cash
+1/31/2024,"$4,500.00",Developer Contractors,Contract Development Work,Contract Labor,Corporate Card
+2/1/2024,"$5,200.00",Digital Ocean,Cloud Hosting and Infrastructure,Utilities,Employee Card
+2/5/2024,"$25,000.00",ADP,February Payroll - Development Team,Wages,Direct Deposit
+2/5/2024,"$8,500.00",ADP,February Payroll - Management Team,Wages,Direct Deposit
+2/5/2024,"$6,500.00",ADP,February Payroll - Design Team,Wages,Direct Deposit
+2/5/2024,"$3,800.00",Regus,Office Space - Monthly Rent,Rent or Lease,Petty Cash
+2/10/2024,"$1,800.00",Hartford Business,General Liability Insurance - Monthly,Insurance,Department Card
+2/15/2024,"$3,500.00",Pluralsight,Annual Team Training Subscription,Professional Development,Employee Card
+2/15/2024,"$3,500.00",Meta,Social Media Marketing,Advertising,Corporate Card
+2/20/2024,"$1,850.00",MongoDB,Database Service - Enterprise Plan,Utilities,Department Card
+2/28/2024,"$4,500.00",Developer Contractors,Contract Development Work,Contract Labor,Corporate Card
+3/1/2024,"$5,200.00",Digital Ocean,Cloud Hosting and Infrastructure,Utilities,Corporate Card
+3/5/2024,"$25,000.00",ADP,March Payroll - Development Team,Wages,Direct Deposit
+3/5/2024,"$8,500.00",ADP,March Payroll - Management Team,Wages,Direct Deposit
+3/5/2024,"$6,500.00",ADP,March Payroll - Design Team,Wages,Direct Deposit
+3/5/2024,"$3,800.00",Regus,Office Space - Monthly Rent,Rent or Lease,Petty Cash
+3/10/2024,"$1,800.00",Hartford Business,General Liability Insurance - Monthly,Insurance,Petty Cash
+3/15/2024,"$2,400.00",New Relic,Application Performance Monitoring - Annual,Software,Petty Cash
+3/15/2024,"$3,500.00",Meta,Social Media Marketing,Advertising,Employee Card
+3/20/2024,"$1,850.00",MongoDB,Database Service - Enterprise Plan,Utilities,Corporate Card
+3/31/2024,"$4,500.00",Developer Contractors,Contract Development Work,Contract Labor,Petty Cash
+4/1/2024,"$5,200.00",Digital Ocean,Cloud Hosting and Infrastructure,Utilities,Petty Cash
+4/5/2024,"$25,000.00",ADP,April Payroll - Development Team,Wages,Direct Deposit
+4/5/2024,"$8,500.00",ADP,April Payroll - Management Team,Wages,Direct Deposit
+4/5/2024,"$6,500.00",ADP,April Payroll - Design Team,Wages,Direct Deposit
+4/5/2024,"$3,800.00",Regus,Office Space - Monthly Rent,Rent or Lease,Department Card
+4/10/2024,"$1,800.00",Hartford Business,General Liability Insurance - Monthly,Insurance,Employee Card
+4/15/2024,"$1,800.00",Cloudflare,Enterprise Security Suite - Annual,Utilities,Employee Card
+4/15/2024,"$3,500.00",Meta,Social Media Marketing,Advertising,Employee Card
+4/20/2024,"$1,850.00",MongoDB,Database Service - Enterprise Plan,Utilities,Department Card
+4/30/2024,"$4,500.00",Developer Contractors,Contract Development Work,Contract Labor,Department Card
+5/1/2024,"$5,200.00",Digital Ocean,Cloud Hosting and Infrastructure,Utilities,Petty Cash
+5/5/2024,"$25,000.00",ADP,May Payroll - Development Team,Wages,Direct Deposit
+5/5/2024,"$8,500.00",ADP,May Payroll - Management Team,Wages,Direct Deposit
+5/5/2024,"$6,500.00",ADP,May Payroll - Design Team,Wages,Direct Deposit
+5/5/2024,"$3,800.00",Regus,Office Space - Monthly Rent,Rent or Lease,Department Card
+5/10/2024,"$1,800.00",Hartford Business,General Liability Insurance - Monthly,Insurance,Corporate Card
+5/15/2024,"$2,100.00",Auth0,Authentication Service - Annual,Software,Employee Card
+5/15/2024,"$3,500.00",Meta,Social Media Marketing,Advertising,Department Card
+5/20/2024,"$1,850.00",MongoDB,Database Service - Enterprise Plan,Utilities,Department Card
+5/31/2024,"$4,500.00",Developer Contractors,Contract Development Work,Contract Labor,Petty Cash
+6/1/2024,"$5,200.00",Digital Ocean,Cloud Hosting and Infrastructure,Utilities,Petty Cash
+6/5/2024,"$25,000.00",ADP,June Payroll - Development Team,Wages,Direct Deposit
+6/5/2024,"$8,500.00",ADP,June Payroll - Management Team,Wages,Direct Deposit
+6/5/2024,"$6,500.00",ADP,June Payroll - Design Team,Wages,Direct Deposit
+6/5/2024,"$3,800.00",Regus,Office Space - Monthly Rent,Rent or Lease,Employee Card
+6/10/2024,"$1,800.00",Hartford Business,General Liability Insurance - Monthly,Insurance,Employee Card
+6/15/2024,"$1,500.00",Stripe,Payment Processing Platform - Annual Fee,Software,Petty Cash
+6/15/2024,"$3,500.00",Meta,Social Media Marketing,Advertising,Petty Cash
+6/20/2024,"$1,850.00",MongoDB,Database Service - Enterprise Plan,Utilities,Employee Card
+6/30/2024,"$4,500.00",Developer Contractors,Contract Development Work,Contract Labor,Petty Cash
+7/1/2024,"$5,200.00",Digital Ocean,Cloud Hosting and Infrastructure,Utilities,Department Card
+7/5/2024,"$26,000.00",ADP,July Payroll - Development Team,Wages,Direct Deposit
+7/5/2024,"$8,500.00",ADP,July Payroll - Management Team,Wages,Direct Deposit
+7/5/2024,"$6,500.00",ADP,July Payroll - Design Team,Wages,Direct Deposit
+7/5/2024,"$3,800.00",Regus,Office Space - Monthly Rent,Rent or Lease,Employee Card
+7/10/2024,"$1,800.00",Hartford Business,General Liability Insurance - Monthly,Insurance,Employee Card
+7/15/2024,"$2,800.00",Datadog,Infrastructure Monitoring - Annual,Software,Employee Card
+7/15/2024,"$3,500.00",Meta,Social Media Marketing,Advertising,Department Card
+7/20/2024,"$1,850.00",MongoDB,Database Service - Enterprise Plan,Utilities,Department Card
+7/31/2024,"$5,500.00",Developer Contractors,Contract Development Work,Contract Labor,Department Card
+8/1/2024,"$5,200.00",Digital Ocean,Cloud Hosting and Infrastructure,Utilities,Corporate Card
+8/5/2024,"$26,000.00",ADP,August Payroll - Development Team,Wages,Direct Deposit
+8/5/2024,"$8,500.00",ADP,August Payroll - Management Team,Wages,Direct Deposit
+8/5/2024,"$6,500.00",ADP,August Payroll - Design Team,Wages,Direct Deposit
+8/5/2024,"$3,800.00",Regus,Office Space - Monthly Rent,Rent or Lease,Department Card
+8/10/2024,"$1,800.00",Hartford Business,General Liability Insurance - Monthly,Insurance,Department Card
+8/15/2024,"$1,900.00",GitLab,Enterprise License - Annual,Software,Corporate Card
+8/15/2024,"$3,500.00",Meta,Social Media Marketing,Advertising,Department Card
+8/20/2024,"$1,850.00",MongoDB,Database Service - Enterprise Plan,Utilities,Petty Cash
+8/31/2024,"$5,500.00",Developer Contractors,Contract Development Work,Contract Labor,Corporate Card
+9/1/2024,"$5,200.00",Digital Ocean,Cloud Hosting and Infrastructure,Utilities,Petty Cash
+9/5/2024,"$26,000.00",ADP,September Payroll - Development Team,Wages,Direct Deposit
+9/5/2024,"$8,500.00",ADP,September Payroll - Management Team,Wages,Direct Deposit
+9/5/2024,"$6,500.00",ADP,September Payroll - Design Team,Wages,Direct Deposit
+9/5/2024,"$3,800.00",Regus,Office Space - Monthly Rent,Rent or Lease,Petty Cash
+9/10/2024,"$1,800.00",Hartford Business,General Liability Insurance - Monthly,Insurance,Department Card
+9/15/2024,"$2,200.00",Twilio,Communications API - Annual Contract,Utilities,Corporate Card
+9/15/2024,"$3,500.00",Meta,Social Media Marketing,Advertising,Department Card
+9/20/2024,"$1,850.00",MongoDB,Database Service - Enterprise Plan,Utilities,Department Card
+9/30/2024,"$5,500.00",Developer Contractors,Contract Development Work,Contract Labor,Corporate Card
+10/1/2024,"$5,200.00",Digital Ocean,Cloud Hosting and Infrastructure,Utilities,Petty Cash
+10/5/2024,"$26,000.00",ADP,October Payroll - Development Team,Wages,Direct Deposit
+10/5/2024,"$8,500.00",ADP,October Payroll - Management Team,Wages,Direct Deposit
+10/5/2024,"$6,500.00",ADP,October Payroll - Design Team,Wages,Direct Deposit
+10/5/2024,"$3,800.00",Regus,Office Space - Monthly Rent,Rent or Lease,Corporate Card
+10/10/2024,"$1,800.00",Hartford Business,General Liability Insurance - Monthly,Insurance,Department Card
+10/15/2024,"$1,800.00",SendGrid,Email Service Provider - Annual,Utilities,Petty Cash
+10/15/2024,"$4,500.00",Meta,Social Media Marketing,Advertising,Department Card
+10/20/2024,"$1,850.00",MongoDB,Database Service - Enterprise Plan,Utilities,Employee Card
+10/31/2024,"$5,500.00",Developer Contractors,Contract Development Work,Contract Labor,Department Card
+11/1/2024,"$5,200.00",Digital Ocean,Cloud Hosting and Infrastructure,Utilities,Petty Cash
+11/5/2024,"$26,000.00",ADP,November Payroll - Development Team,Wages,Direct Deposit
+11/5/2024,"$8,500.00",ADP,November Payroll - Management Team,Wages,Direct Deposit
+11/5/2024,"$6,500.00",ADP,November Payroll - Design Team,Wages,Direct Deposit
+11/5/2024,"$3,800.00",Regus,Office Space - Monthly Rent,Rent or Lease,Employee Card
+11/10/2024,"$1,800.00",Hartford Business,General Liability Insurance - Monthly,Insurance,Petty Cash
+11/15/2024,"$2,400.00",Pusher,Real-time APIs - Annual License,Software,Department Card
+11/15/2024,"$4,500.00",Meta,Social Media Marketing,Advertising,Corporate Card
+11/20/2024,"$1,850.00",MongoDB,Database Service - Enterprise Plan,Utilities,Corporate Card
+11/30/2024,"$5,500.00",Developer Contractors,Contract Development Work,Contract Labor,Corporate Card
+12/1/2024,"$5,200.00",Digital Ocean,Cloud Hosting and Infrastructure,Utilities,Corporate Card
+12/5/2024,"$26,000.00",ADP,December Payroll - Development Team,Wages,Direct Deposit
+12/5/2024,"$8,500.00",ADP,December Payroll - Management Team,Wages,Direct Deposit
+12/5/2024,"$6,500.00",ADP,December Payroll - Design Team,Wages,Direct Deposit
+12/5/2024,"$3,800.00",Regus,Office Space - Monthly Rent,Rent or Lease,Petty Cash
+12/10/2024,"$1,800.00",Hartford Business,General Liability Insurance - Monthly,Insurance,Employee Card
+12/15/2024,"$1,700.00",Sentry,Error Tracking Platform - Annual,Software,Petty Cash
+12/15/2024,"$4,500.00",Meta,Social Media Marketing,Advertising,Petty Cash
+12/20/2024,"$1,850.00",MongoDB,Database Service - Enterprise Plan,Utilities,Employee Card
+12/31/2024,"$5,500.00",Developer Contractors,Contract Development Work,Contract Labor,Petty Cash
+12/31/2024,"$12,000.00",Employee Bonuses,Year-end Performance Bonuses,Wages,Direct Deposit

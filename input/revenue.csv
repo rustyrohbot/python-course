@@ -1,0 +1,145 @@
+Date,Amount,Invoice_Number,Project,Service,Client,Tool,Payment_Status,Payment_Method
+1/1/2024,"$4,800.00",2001,ClinicalFlow Portal,Website Maintenance,MediCorp Systems,WordPress,Paid,Bank Transfer
+1/2/2024,"$32,000.00",2002,PatientConnect EHR,Web App Build,HealthFirst Network,RIL Stack,Paid,Bank Transfer
+1/3/2024,"$28,500.00",2003,CareTrack Mobile,Mobile App Build,CarePoint Solutions,React Native,Pending,PayPal
+1/5/2024,"$45,000.00",2004,MedScheduler Pro,Web App Build,RegionalCare Health,RIL Stack,Paid,Bank Transfer
+1/7/2024,"$3,500.00",2005,ClinicSite Plus,Accessibility Audit,LocalCare Medical,WordPress,Paid,Credit Card
+1/10/2024,"$22,000.00",2006,DoctorConnect Hub,Website Development,PrimaryCare Group,RIL Stack,Paid,Bank Transfer
+1/12/2024,"$2,500.00",2007,HealthTech Roadmap,Strategy Meeting,MedTech Innovations,Meeting,Paid,Check
+1/15/2024,"$8,500.00",2008,MedicalCMS Pro,Performance Audit,Healthcare Solutions,Wrag Stack,Pending,Credit Card
+1/18/2024,"$42,000.00",2009,InsureTech Platform,Web App Build,InsureWise Corp,RIL Stack,Paid,Bank Transfer
+1/20/2024,"$4,800.00",2010,ClaimPortal Plus,Website Maintenance,ClaimsCare Inc,WordPress,Overdue,PayPal
+1/22/2024,"$38,500.00",2011,BenefitsTrack App,Mobile App Build,BenefitSmart Solutions,React Native,Paid,Bank Transfer
+1/25/2024,"$18,800.00",2012,InsuranceFlow CRM,Website Development,InsurePro Services,Wrag Stack,Paid,Credit Card
+1/28/2024,"$3,200.00",2013,RiskTech Strategy,Strategy Meeting,RiskManage Corp,Meeting,Partially Paid,Check
+2/1/2024,"$52,000.00",2014,ClaimsGenius Portal,New Website Build,ClaimsTech Solutions,RIL Stack,Paid,Bank Transfer
+2/3/2024,"$5,500.00",2015,PolicyManager Pro,Accessibility Audit,PolicyTech Corp,WordPress,Pending,PayPal
+2/5/2024,"$48,500.00",2016,UnderwritePro System,Web App Build,UnderwriteSmart Inc,RIL Stack,Paid,Bank Transfer
+2/8/2024,"$4,200.00",2017,InsureAnalytics Hub,Website Maintenance,AnalyticsPro Insurance,Wrag Stack,Paid,Credit Card
+2/10/2024,"$35,500.00",2018,BrokerConnect App,Mobile App Build,BrokerTech Solutions,React Native,Overdue,Bank Transfer
+2/12/2024,"$7,200.00",2019,InsureTech Metrics,Performance Audit,MetricsPro Insurance,Wrag Stack,Paid,PayPal
+2/15/2024,"$41,000.00",2020,PolicyGenius CRM,Website Development,PolicySmart Corp,RIL Stack,Paid,Bank Transfer
+2/18/2024,"$4,800.00",2021,ClaimsTrack System,Website Maintenance,TrackSmart Claims,WordPress,Paid,Credit Card
+2/20/2024,"$39,000.00",2022,BenefitsGenius Hub,Web App Build,BenefitsTech Corp,RIL Stack,Pending,Bank Transfer
+2/22/2024,"$3,800.00",2023,InsuranceOps Plan,Strategy Meeting,OpsSmart Insurance,Meeting,Paid,Check
+2/25/2024,"$28,500.00",2024,RiskAnalytics Pro,New Website Build,RiskTech Solutions,RIL Stack,Paid,Bank Transfer
+3/1/2024,"$5,200.00",2025,PolicyFlow Portal,Accessibility Audit,FlowTech Insurance,WordPress,Overdue,PayPal
+3/3/2024,"$45,000.00",2026,ClaimsTech Suite,Web App Build,ClaimsSmart Systems,RIL Stack,Paid,Bank Transfer
+3/5/2024,"$8,900.00",2027,InsureMetrics Pro,Performance Audit,MetricsTech Insurance,Wrag Stack,Paid,Credit Card
+3/8/2024,"$32,500.00",2028,BrokerFlow System,Website Development,BrokerSmart Solutions,RIL Stack,Pending,Bank Transfer
+3/10/2024,"$4,800.00",2029,PolicyTrack CMS,Website Maintenance,TrackPro Insurance,WordPress,Paid,PayPal
+3/12/2024,"$36,000.00",2030,BenefitsTrack Hub,Mobile App Build,BenefitFlow Corp,React Native,Paid,Bank Transfer
+3/15/2024,"$3,600.00",2031,InsureTech Vision,Strategy Meeting,VisionPro Insurance,Meeting,Partially Paid,Check
+3/18/2024,"$49,000.00",2032,ClaimsConnect Pro,New Website Build,ConnectTech Claims,RIL Stack,Paid,Bank Transfer
+3/20/2024,"$7,500.00",2033,PolicySmart Portal,Website Maintenance,SmartTech Insurance,WordPress,Overdue,Credit Card
+3/22/2024,"$43,500.00",2034,UnderwriteFlow Hub,Web App Build,FlowPro Underwriting,RIL Stack,Paid,Bank Transfer
+3/25/2024,"$4,900.00",2035,BrokerTech Access,Accessibility Audit,AccessPro Brokers,WordPress,Pending,PayPal
+3/28/2024,"$31,500.00",2036,InsureConnect CRM,Website Development,ConnectSmart Insurance,RIL Stack,Paid,Bank Transfer
+4/1/2024,"$6,200.00",2037,ClaimsMetrics Pro,Performance Audit,MetricsSmart Claims,Wrag Stack,Paid,Credit Card
+4/3/2024,"$38,000.00",2038,RiskTrack Mobile,Mobile App Build,TrackTech Risk,React Native,Paid,Bank Transfer
+4/5/2024,"$4,800.00",2039,PolicyPro Strategy,Strategy Meeting,ProTech Insurance,Meeting,Partially Paid,Check
+4/8/2024,"$47,000.00",2040,BenefitsGenius Pro,New Website Build,GeniusTech Benefits,RIL Stack,Paid,Bank Transfer
+4/10/2024,"$8,200.00",2041,InsureTrack Suite,Website Development,TrackSmart Insurance,Wrag Stack,Overdue,PayPal
+4/12/2024,"$34,500.00",2042,ClaimsFlow System,Web App Build,FlowTech Claims,RIL Stack,Paid,Bank Transfer
+4/15/2024,"$5,500.00",2043,BrokerTrack CMS,Website Maintenance,TrackPro Brokers,WordPress,Pending,Credit Card
+4/18/2024,"$42,000.00",2044,PolicyConnect Hub,Mobile App Build,ConnectSmart Policy,React Native,Paid,Bank Transfer
+4/20/2024,"$7,800.00",2045,BenefitsPro Portal,Performance Audit,ProTech Benefits,Wrag Stack,Paid,PayPal
+4/22/2024,"$39,500.00",2046,InsureSmart System,Website Development,SmartTech Insurance,RIL Stack,Paid,Bank Transfer
+4/25/2024,"$4,200.00",2047,RiskFlow Strategy,Strategy Meeting,FlowPro Risk,Meeting,Overdue,Check
+4/28/2024,"$33,500.00",2048,ClaimsSmart Portal,New Website Build,SmartTech Claims,RIL Stack,Paid,Bank Transfer
+5/1/2024,"$6,500.00",2049,PolicyMetrics Hub,Accessibility Audit,MetricsPro Policy,WordPress,Pending,Credit Card
+5/3/2024,"$44,000.00",2050,BrokerGenius Pro,Web App Build,GeniusTech Brokers,RIL Stack,Paid,Bank Transfer
+5/5/2024,"$5,200.00",2051,InsureTrack CMS,Website Maintenance,TrackSmart Insurance,WordPress,Paid,PayPal
+5/8/2024,"$37,500.00",2052,BenefitsFlow Mobile,Mobile App Build,FlowTech Benefits,React Native,Partially Paid,Bank Transfer
+5/10/2024,"$8,800.00",2053,ClaimsTrack Suite,Performance Audit,TrackPro Claims,Wrag Stack,Paid,Credit Card
+5/12/2024,"$41,500.00",2054,PolicyFlow System,Website Development,FlowSmart Policy,RIL Stack,Overdue,Bank Transfer
+5/15/2024,"$4,200.00",2055,RiskTech Vision,Strategy Meeting,VisionPro Risk,Meeting,Paid,Check
+5/18/2024,"$46,000.00",2056,BrokerSmart Portal,New Website Build,SmartTech Brokers,RIL Stack,Paid,Bank Transfer
+5/20/2024,"$7,800.00",2057,InsureGenius Hub,Accessibility Audit,GeniusPro Insurance,WordPress,Pending,PayPal
+5/22/2024,"$40,500.00",2058,ClaimsConnect Pro,Web App Build,ConnectTech Claims,RIL Stack,Paid,Bank Transfer
+5/25/2024,"$5,200.00",2059,BenefitsTrack CMS,Website Maintenance,TrackSmart Benefits,WordPress,Paid,Credit Card
+5/28/2024,"$35,500.00",2060,PolicyPro Mobile,Mobile App Build,ProTech Policy,React Native,Overdue,Bank Transfer
+6/1/2024,"$6,800.00",2061,RiskMetrics Suite,Performance Audit,MetricsPro Risk,Wrag Stack,Paid,PayPal
+6/3/2024,"$48,000.00",2062,BrokerFlow System,Website Development,FlowTech Brokers,RIL Stack,Partially Paid,Bank Transfer
+6/5/2024,"$4,500.00",2063,InsureTech Plan,Strategy Meeting,TechSmart Insurance,Meeting,Paid,Check
+6/8/2024,"$43,000.00",2064,ClaimsGenius Portal,New Website Build,GeniusTech Claims,RIL Stack,Paid,Bank Transfer
+6/10/2024,"$8,500.00",2065,PolicyTrack Hub,Web App Build,TrackPro Policy,Wrag Stack,Pending,Credit Card
+6/12/2024,"$36,500.00",2066,BenefitsConnect Pro,Mobile App Build,ConnectSmart Benefits,React Native,Paid,Bank Transfer
+6/15/2024,"$5,800.00",2067,RiskFlow CMS,Website Maintenance,FlowPro Risk,WordPress,Overdue,PayPal
+6/18/2024,"$45,000.00",2068,InsureSmart Suite,Performance Audit,SmartTech Insurance,Wrag Stack,Paid,Bank Transfer
+6/20/2024,"$7,200.00",2069,BrokerTech Hub,Website Development,TechPro Brokers,RIL Stack,Paid,Credit Card
+6/22/2024,"$39,500.00",2070,ClaimsFlow Portal,Mobile App Build,FlowSmart Claims,React Native,Partially Paid,Bank Transfer
+6/25/2024,"$4,800.00",2071,TradePro Dashboard,Strategy Meeting,InvestSmart Trading,Meeting,Paid,Check
+6/28/2024,"$42,500.00",2072,PortfolioTrack System,New Website Build,WealthTech Solutions,RIL Stack,Pending,Bank Transfer
+7/1/2024,"$6,200.00",2073,InvestorFlow Portal,Accessibility Audit,CapitalPro Investments,WordPress,Paid,PayPal
+7/3/2024,"$49,000.00",2074,WealthGenius Platform,Web App Build,AssetSmart Management,RIL Stack,Overdue,Bank Transfer
+7/5/2024,"$8,800.00",2075,TradeConnect CMS,Website Maintenance,TradeTech Solutions,WordPress,Paid,Credit Card
+7/8/2024,"$44,500.00",2076,InvestTech Suite,Performance Audit,InvestorPro Services,Wrag Stack,Paid,Bank Transfer
+7/10/2024,"$5,500.00",2077,PortfolioSmart Hub,Website Development,PortfolioTech Corp,Wrag Stack,Partially Paid,PayPal
+7/12/2024,"$38,500.00",2078,WealthFlow Mobile,Mobile App Build,WealthTrack Solutions,React Native,Paid,Bank Transfer
+7/15/2024,"$4,200.00",2079,TradeSmart Vision,Strategy Meeting,SmartTrade Capital,Meeting,Pending,Check
+7/18/2024,"$47,000.00",2080,InvestorTrack Pro,New Website Build,TrackSmart Investments,RIL Stack,Paid,Bank Transfer
+7/20/2024,"$7,500.00",2081,PortfolioMetrics Hub,Accessibility Audit,MetricsPro Portfolio,WordPress,Overdue,Credit Card
+7/22/2024,"$41,500.00",2082,WealthConnect System,Web App Build,ConnectTech Wealth,RIL Stack,Paid,Bank Transfer
+7/25/2024,"$5,800.00",2083,TradeFlow Portal,Website Maintenance,FlowTech Trading,WordPress,Paid,PayPal
+7/28/2024,"$39,500.00",2084,InvestGenius Suite,Performance Audit,GeniusPro Investments,Wrag Stack,Partially Paid,Bank Transfer
+8/1/2024,"$6,500.00",2085,PortfolioTech Hub,Website Development,TechSmart Portfolio,RIL Stack,Paid,Credit Card
+8/3/2024,"$46,000.00",2086,WealthTrack Mobile,Mobile App Build,TrackPro Wealth,React Native,Pending,Bank Transfer
+8/5/2024,"$4,800.00",2087,TradePro Strategy,Strategy Meeting,ProTech Trading,Meeting,Paid,Check
+8/8/2024,"$43,500.00",2088,InvestorSmart System,New Website Build,SmartTech Investments,RIL Stack,Overdue,Bank Transfer
+8/10/2024,"$8,200.00",2089,PortfolioFlow Pro,Web App Build,FlowSmart Portfolio,Wrag Stack,Paid,PayPal
+8/12/2024,"$37,500.00",2090,WealthGenius Mobile,Mobile App Build,GeniusTech Wealth,React Native,Paid,Bank Transfer
+8/15/2024,"$5,500.00",2091,TradeTrack CMS,Performance Audit,TrackTech Trading,Wrag Stack,Partially Paid,Credit Card
+8/18/2024,"$45,000.00",2092,InvestorConnect Portal,Website Development,ConnectPro Investments,RIL Stack,Paid,Bank Transfer
+8/20/2024,"$7,800.00",2093,PortfolioSmart CMS,Website Maintenance,SmartFlow Portfolio,WordPress,Pending,PayPal
+8/22/2024,"$40,500.00",2094,WealthTech Suite,Mobile App Build,TechPro Wealth,React Native,Paid,Bank Transfer
+8/25/2024,"$4,500.00",2095,TradeGenius Vision,Strategy Meeting,GeniusSmart Trading,Meeting,Overdue,Check
+8/28/2024,"$48,500.00",2096,InvestorFlow Pro,New Website Build,FlowTech Investments,RIL Stack,Paid,Bank Transfer
+9/1/2024,"$6,800.00",2097,PortfolioTrack Hub,Accessibility Audit,TrackSmart Portfolio,WordPress,Paid,Credit Card
+9/3/2024,"$42,000.00",2098,WealthMetrics System,Web App Build,MetricsTech Wealth,RIL Stack,Partially Paid,Bank Transfer
+9/5/2024,"$9,200.00",2099,TradeConnect Suite,Performance Audit,ConnectPro Trading,Wrag Stack,Paid,PayPal
+9/8/2024,"$44,000.00",2100,InvestorTech Portal,Website Development,TechSmart Investments,RIL Stack,Pending,Bank Transfer
+9/10/2024,"$5,500.00",2101,PortfolioGenius CMS,Website Maintenance,GeniusPro Portfolio,WordPress,Paid,Credit Card
+9/12/2024,"$36,500.00",2102,WealthFlow Pro,Mobile App Build,FlowTech Wealth,React Native,Overdue,Bank Transfer
+9/15/2024,"$4,800.00",2103,TradeSmart Strategy,Strategy Meeting,SmartTech Trading,Meeting,Paid,Check
+9/18/2024,"$47,000.00",2104,InvestorTrack Suite,New Website Build,TrackPro Investments,RIL Stack,Paid,Bank Transfer
+9/20/2024,"$7,200.00",2105,PortfolioConnect Hub,Accessibility Audit,ConnectTech Portfolio,WordPress,Partially Paid,PayPal
+9/22/2024,"$41,500.00",2106,ShopSmart Platform,Web App Build,RetailGenius Solutions,RIL Stack,Paid,Bank Transfer
+9/25/2024,"$5,800.00",2107,StoreFlow Portal,Website Maintenance,FlowTech Retail,WordPress,Paid,Credit Card
+9/28/2024,"$38,500.00",2108,RetailTrack Mobile,Mobile App Build,TrackSmart Commerce,React Native,Pending,Bank Transfer
+10/1/2024,"$6,500.00",2109,MarketPro Metrics,Performance Audit,MetricsPro Retail,Wrag Stack,Overdue,PayPal
+10/3/2024,"$45,500.00",2110,CommerceGenius Hub,Website Development,GeniusTech Commerce,RIL Stack,Paid,Bank Transfer
+10/5/2024,"$4,800.00",2111,StoreConnect Vision,Strategy Meeting,ConnectSmart Retail,Meeting,Partially Paid,Check
+10/8/2024,"$43,000.00",2112,RetailFlow System,New Website Build,FlowPro Commerce,RIL Stack,Paid,Bank Transfer
+10/10/2024,"$8,500.00",2113,MarketTrack Portal,Web App Build,TrackTech Retail,Wrag Stack,Pending,Credit Card
+10/12/2024,"$39,500.00",2114,ShopTech Suite,Mobile App Build,TechSmart Commerce,React Native,Paid,Bank Transfer
+10/15/2024,"$5,800.00",2115,StoreMetrics CMS,Website Maintenance,MetricsTech Retail,WordPress,Overdue,PayPal
+10/18/2024,"$46,000.00",2116,RetailConnect Pro,Performance Audit,ConnectPro Commerce,Wrag Stack,Paid,Bank Transfer
+10/20/2024,"$7,200.00",2117,MarketFlow Hub,Website Development,FlowSmart Retail,RIL Stack,Paid,Credit Card
+10/22/2024,"$42,500.00",2118,ShopTrack Mobile,Mobile App Build,TrackPro Commerce,React Native,Partially Paid,Bank Transfer
+10/25/2024,"$4,800.00",2119,StoreSmart Vision,Strategy Meeting,SmartTech Retail,Meeting,Paid,Check
+10/28/2024,"$44,500.00",2120,RetailGenius Suite,New Website Build,GeniusPro Commerce,RIL Stack,Pending,Bank Transfer
+11/1/2024,"$6,800.00",2121,MarketTech Portal,Accessibility Audit,TechFlow Retail,WordPress,Paid,PayPal
+11/3/2024,"$40,500.00",2122,ShopFlow System,Web App Build,FlowTech Commerce,RIL Stack,Overdue,Bank Transfer
+11/5/2024,"$9,200.00",2123,StoreTrack CMS,Website Maintenance,TrackSmart Retail,WordPress,Paid,Credit Card
+11/8/2024,"$37,500.00",2124,RetailSmart Pro,Mobile App Build,SmartPro Commerce,React Native,Paid,Bank Transfer
+11/10/2024,"$5,500.00",2125,MarketConnect Hub,Performance Audit,ConnectTech Retail,Wrag Stack,Partially Paid,PayPal
+11/12/2024,"$45,000.00",2126,ShopGenius Suite,Website Development,GeniusTech Commerce,RIL Stack,Paid,Bank Transfer
+11/15/2024,"$4,200.00",2127,StoreFlow Vision,Strategy Meeting,FlowPro Retail,Meeting,Pending,Check
+11/18/2024,"$43,500.00",2128,RetailTech Portal,New Website Build,TechSmart Commerce,RIL Stack,Paid,Bank Transfer
+11/20/2024,"$7,800.00",2129,MarketTrack System,Accessibility Audit,TrackPro Retail,WordPress,Overdue,Credit Card
+11/22/2024,"$41,500.00",2130,ShopSmart Pro,Web App Build,SmartTech Commerce,RIL Stack,Paid,Bank Transfer
+11/25/2024,"$5,200.00",2131,StoreConnect CMS,Website Maintenance,ConnectFlow Retail,WordPress,Paid,PayPal
+11/28/2024,"$38,500.00",2132,RetailFlow Mobile,Mobile App Build,FlowTech Commerce,React Native,Partially Paid,Bank Transfer
+12/1/2024,"$6,500.00",2133,MarketGenius Hub,Performance Audit,GeniusPro Retail,Wrag Stack,Paid,Credit Card
+12/3/2024,"$46,500.00",2134,ShopTrack Suite,Website Development,TrackSmart Commerce,RIL Stack,Pending,Bank Transfer
+12/5/2024,"$4,800.00",2135,StoreTech Vision,Strategy Meeting,TechPro Retail,Meeting,Paid,Check
+12/8/2024,"$42,000.00",2136,RetailSmart System,New Website Build,SmartFlow Commerce,RIL Stack,Overdue,Bank Transfer
+12/10/2024,"$8,200.00",2137,MarketFlow Portal,Web App Build,FlowTech Retail,Wrag Stack,Paid,PayPal
+12/12/2024,"$39,500.00",2138,ShopConnect Pro,Mobile App Build,ConnectPro Commerce,React Native,Paid,Bank Transfer
+12/15/2024,"$5,500.00",2139,StoreTrack Hub,Website Maintenance,TrackTech Retail,WordPress,Partially Paid,Credit Card
+12/18/2024,"$44,000.00",2140,RetailGenius Suite,Performance Audit,GeniusSmart Commerce,Wrag Stack,Paid,Bank Transfer
+12/20/2024,"$7,200.00",2141,EdTech Platform,Website Development,LearnSmart Solutions,RIL Stack,Paid,Credit Card
+12/22/2024,"$41,500.00",2142,LearnFlow System,Mobile App Build,EduFlow Technologies,React Native,Partially Paid,Bank Transfer
+12/25/2024,"$4,800.00",2143,SchoolGenius Portal,Strategy Meeting,SmartSchool Systems,Meeting,Paid,Check
+12/28/2024,"$43,500.00",2144,EduTrack Suite,New Website Build,TrackPro Education,RIL Stack,Pending,Bank Transfer
