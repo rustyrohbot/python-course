@@ -46,4 +46,10 @@ if __name__ == "__main__":
     main()
 ```
 
+Remember to commit your changes
+```bash
+git add main.py
+git commit -m "step 2: getting in more reps with type hints"
+```
+
 We're now two steps in, and I still haven't taught y'all to do anything but make an over engineered hello world program. I promise we'll do something more interesting in the next step.
