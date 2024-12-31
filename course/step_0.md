@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-We’re starting this course assuming you already know some programming basics in Python. You should be able to write a “Hello World” app, run it, and understand if/else statements, loops, and functions.
+We’re starting this course assuming you already know some programming basics in Python. You should be able to write a “Hello World” app, run it, on top of understanding if/else statements, loops, and functions.
 
 We also assume you have Git installed. (If you’re unsure, check by running `git --version` in your terminal).
 
@@ -164,3 +164,37 @@ git commit -m "step 0: setting up for a python course"
 
 Each commit needs to have a message, in the command we do this by adding a `-m` followed by text in quotes. Ideally this describes the changes you are
 adding.
+
+## Save It In The Cloud
+
+I already got to step 5 before remembering to add this. But let's also go through the process of setting setting up a cloud backup for our git repo.
+
+The benefit to using git over storing all of our code in a cloud storage service like onedrive, dropbox, google drive, etc. is that we get granualar change tracking to our code, in additional to being able to create multiple branches of that have different copies of our code. Branching is less relevant to the context of this course.
+
+We are going to be using Github, it's currently the most popular hosted git provider, but if you don't want to use them, you can modify the instructions for alternative like Gitlab, Gitea, or Bitbucket.
+
+If you don't have one already, make an account at [github.com](https://github.com/).
+
+Then we want to open a terminal and follow these instructions
+
+Next, we want to click on our profile icon in the top right corner, and click on *settings*. In the settings menu, we want to click *SSH and GPG keys* under *Access* panel. Here's a [shortcut](https://github.com/settings/keys) if you can't find it.
+
+Now it's on you, Github provides detailed steps for both making an ssh key locally, [steps](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+Afterwards you can run `cat ~/.ssh/id_ed25519.pub` in the terminal to have it print out your key.
+
+Copy the value, and add it to, go back the the [SSH and GPG keys](https://github.com/settings/keys), and add your key. Remember we are using `ssh` not `gpg`. Keep the key type as is, "Authentication key"
+
+Now make a [new repository](https://github.com/new), I am being lazy and naming mine "python-course", and click "Create repository".
+
+I am assuming you've already initialized git locally and made a commit (if not repeat Step 0).
+
+So now let's get what we have one our computers over to the cloud.
+
+First, run  `git remote add origin git@github.com:<your user name>/<your repo name>.git`
+
+This tells your local git where on the internet to upload (push) your files to.
+
+Next run `git push -u origin main`
+
+This will take what we have commited locally, and push it to the cloud.

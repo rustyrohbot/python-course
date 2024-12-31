@@ -122,4 +122,10 @@ git add main.py
 git commit -m "step 3: handling user input
 ```
 
+And then push them.
+
+```bash
+git push
+```
+
 Next up, we're going to modify our program to read in a file and write out its contents.

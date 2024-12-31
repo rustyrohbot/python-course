@@ -174,3 +174,9 @@ git add main.py
 git add input
 git commit -m "step 4: reading csv files"
 ```
+
+And then push!
+
+```bash
+git push
+```

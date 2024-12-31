@@ -52,4 +52,10 @@ git add main.py
 git commit -m "step 2: getting in more reps with type hints"
 ```
 
+Next push this to the cloud.
+
+```bash
+git push
+```
+
 We're now two steps in, and I still haven't taught y'all to do anything but make an over engineered hello world program. I promise we'll do something more interesting in the next step.

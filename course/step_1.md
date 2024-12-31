@@ -65,3 +65,12 @@ Y'all know the drill, we want to `add` and `commit` our change.
 git add main.py
 git commit -m "step 1: adding structure"
 ```
+
+
+### Push It
+
+Next push this to the cloud.
+
+```bash
+git push
+```

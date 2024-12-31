@@ -169,3 +169,17 @@ def revenue_by_month_sorted(data: list[dict[str, str]]) -> dict[str, Decimal]:
             print(f"Error details: {e}")
             exit(1)
 ```
+
+## Commit and Push
+
+```bash
+git add main.py
+git add input
+git commit -m "step 5: starting to crunch numbers"
+```
+
+And then push!
+
+```bash
+git push
+```
